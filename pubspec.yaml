@@ -1,0 +1,47 @@
+name: health_connect
+description: An integrated health management app.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.0
+  http: ^1.2.1
+  flutter_lints: ^4.0.0
+  google_sign_in: ^6.2.1
+  firebase_core: ^3.1.0
+  firebase_auth: ^5.1.0
+  cloud_firestore: ^5.0.0
+  firebase_ui_auth: ^1.15.0
+  flutter_chat_ui: ^1.0.4
+  flutter_chat_types: ^3.2.0
+  flutter_webrtc: ^0.11.1
+  webrtc_interface: ^1.2.0
+  audioplayers: ^6.0.0
+  firebase_ui_oauth_google: ^1.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo.png
+    - assets/images/google.png
+    - assets/images/onboarding1.png
+    - assets/images/onboarding2.png
+    - assets/images/onboarding3.png
+    - assets/images/apple.png
+    - assets/images/dash.png
+    - assets/images/sleep.png
+    - assets/images/mindfulness.png
+    - assets/images/stress_relief.png

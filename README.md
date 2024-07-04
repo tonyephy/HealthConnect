@@ -13,3 +13,9 @@ Flutter: Utilized for building a cross-platform mobile application with a single
 Firebase: Integrated for backend services including authentication, real-time database, and cloud storage.
 CLI Tools: Command-line interfaces are used for development and deployment processes.
 Stay connected and take control of your health with the Health Connect app.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
